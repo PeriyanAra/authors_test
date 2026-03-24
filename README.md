@@ -2,8 +2,6 @@
 
 `authors` is a Flutter app that currently focuses on searching and browsing authors from the Open Library API.
 
-The repository and package still use the `authors` name, while the implemented user-facing feature set is author search plus app theme settings.
-
 ## Requirements
 
 - Flutter: `3.41.4`
@@ -79,8 +77,6 @@ The app currently has two routes:
 
 - `/authors`
 - `/settings`
-
-There is no separate author details route in the current implementation.
 
 ## State management
 
